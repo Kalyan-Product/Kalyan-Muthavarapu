@@ -27,26 +27,27 @@ Senior Product Manager with over a decade of experience delivering impactful, sc
 
 ## 🛠 Skills & Expertise
 
-### Product Management & Strategy
-- Strategic Planning, product vision, goals, prioritisation, roadmap, metrics, KPIs, OKRs
+**Product Management & Strategy**  
+![Product Vision](https://img.shields.io/badge/Product%20Vision-blue) ![Strategy](https://img.shields.io/badge/Strategy-green) ![Roadmaps](https://img.shields.io/badge/Roadmaps-orange) ![Metrics%20%26%20KPIs](https://img.shields.io/badge/Metrics%20%26%20KPIs-purple)
 
-### Prioritisation Frameworks
-- DVF, RICE, MoSCoW, Impact vs Effort, Feature ROI
+**Prioritisation Frameworks**  
+![DVF](https://img.shields.io/badge/DVF-blue) ![RICE](https://img.shields.io/badge/RICE-green) ![MoSCoW](https://img.shields.io/badge/MoSCoW-orange) ![Impact%20vs%20Effort](https://img.shields.io/badge/Impact%20vs%20Effort-red) ![Feature%20ROI](https://img.shields.io/badge/Feature%20ROI-yellow)
 
-### Technical Expertise
-- API integrations, cloud platforms (AWS, Azure), eCommerce & digital solutions
+**Technical Expertise**  
+![API Integrations](https://img.shields.io/badge/API%20Integrations-blue) ![AWS](https://img.shields.io/badge/AWS-orange) ![Azure](https://img.shields.io/badge/Azure-lightblue) ![eCommerce](https://img.shields.io/badge/eCommerce-green) ![Digital Solutions](https://img.shields.io/badge/Digital%20Solutions-purple)
 
-### Data-Driven Decision Making
-- User research, performance analysis, A/B testing, product analytics
+**Data-Driven Decision Making**  
+![User Research](https://img.shields.io/badge/User%20Research-blue) ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-orange) ![Product Analytics](https://img.shields.io/badge/Product%20Analytics-green)
 
-### Agile Methodologies
-- Scrum, Kanban, sprint planning, backlog management
+**Agile Methodologies**  
+![Scrum](https://img.shields.io/badge/Scrum-blue) ![Kanban](https://img.shields.io/badge/Kanban-green) ![Sprint Planning](https://img.shields.io/badge/Sprint%20Planning-orange) ![Backlog Management](https://img.shields.io/badge/Backlog%20Management-purple)
 
-### Sustainability Initiatives
-- Carbon emission calculations, green tech solutions
+**Sustainability Initiatives**  
+![Carbon Emission Calculations](https://img.shields.io/badge/Carbon%20Emission%20Calculations-green) ![Green Tech](https://img.shields.io/badge/Green%20Tech-lightgreen)
 
-### Stakeholder Management
-- Cross-functional leadership, executive communication, vendor management
+**Stakeholder Management**  
+![Cross-Functional Leadership](https://img.shields.io/badge/Cross--Functional%20Leadership-blue) ![Executive Communication](https://img.shields.io/badge/Executive%20Communication-orange) ![Vendor Management](https://img.shields.io/badge/Vendor%20Management-green)
+
 
 ---
 
