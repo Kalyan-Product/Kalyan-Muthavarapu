@@ -80,8 +80,8 @@ Senior Product Manager with over a decade of experience delivering impactful, sc
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (linkedin.com/in/kalyanmuthavarapu)
-- Email: *mckalyan@hotmail.com*
+[LinkedIn](https://linkedin.com/in/kalyanmuthavarapu)  
+[Email](mailto:mckalyan@hotmail.com)
 
 ---
 ⭐ **I believe great products emerge when systems, users and problems are understood as one ecosystem.**
