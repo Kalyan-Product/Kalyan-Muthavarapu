@@ -18,7 +18,7 @@ Senior Product Manager with over a decade of experience delivering impactful, sc
 
 ---
 
-## 🏆 Career Highlights
+## 🏆 Recent Career Highlights
 - Led API-first platform strategy at Shell, integrating with 15+ enterprise applications and automating data delivery with GraphQL APIs.
 - Delivered award-winning global eCommerce platform for Shell Market Hub, supporting $32B revenue in 20+ languages.
 - Launched sustainability digital products used in 74 countries, driving a 10% alternative fuels revenue increase and securing $5M in contracts within 3 months.
