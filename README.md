@@ -3,7 +3,7 @@
 🚀 **Senior Product Manager** | Enterprise SaaS | API-First Platforms | eCommerce | AI Product Management  
 
 I design and deliver impactful, scalable products that solve real problems and deliver measurable value.  
-My work blends **strategy, execution, and hands-on delivery** — from API-led enterprise platforms to award-winning eCommerce solutions.
+My work blends **strategy, execution and hands-on delivery** — from API-led enterprise platforms to award-winning eCommerce solutions.
 
 ---
 
@@ -26,7 +26,7 @@ My work blends **strategy, execution, and hands-on delivery** — from API-led e
 **Integrations**: GraphQL, Swagger APIs, MuleSoft, SAP CPI  
 **Platforms**: AWS, Microsoft Azure, SAP CX, Hybris, React, Spartacus  
 **Analytics**: Amplitude, Adobe Analytics, Splunk, Dynatrace
-
+**And More..*:
 ---
 
 ## 🌐 Portfolio
@@ -36,7 +36,7 @@ My work blends **strategy, execution, and hands-on delivery** — from API-led e
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/kalyanmuthavarapu](https://linkedin.com/in/kalyanmuthavarapu)
-- Email: *your-email@example.com*
+- Email: *mckalyan@hotmail.com*
 
 ---
-⭐ **I believe great products emerge when systems, users, and problems are understood as one ecosystem.**
+⭐ **I believe great products emerge when systems, users and problems are understood as one ecosystem.**
