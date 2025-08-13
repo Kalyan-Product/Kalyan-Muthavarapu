@@ -1,32 +1,63 @@
-# 👋 Hi, I'm Kalyan Muthavarapu
+# 👋 Hi, I’m Kalyan Muthavarapu
 
-🚀 **Senior Product Manager** | Enterprise SaaS | API-First Platforms | eCommerce | AI Product Management  
+Senior Product Manager with over a decade of experience delivering impactful, scalable products across **enterprise SaaS**, **API-first platforms**, **B2B/B2C eCommerce**, and **digital transformation** initiatives.
 
-I design and deliver impactful, scalable products that solve real problems and deliver measurable value.  
-My work blends **strategy, execution and hands-on delivery** — from API-led enterprise platforms to award-winning eCommerce solutions.
-
----
-
-## 💡 About Me
-- 10+ years building and scaling enterprise digital products across **B2B and B2C** ecosystems.
-- Strong focus on **API-first architecture**, **data-driven decision-making**, and **responsible AI applications**.
-- Experience in **global product rollouts** with measurable revenue growth and customer impact.
-- Currently exploring **Agentic AI** and **problem-first AI applications** through hands-on builds.
+💡 Passionate about **AI Product Management**, currently completing Maven’s *Building Agentic AI Applications (Problem-First Approach)* with weekly hands-on builds.  
+🌱 Exploring the intersection of **sustainability tech** and **AI** to create products that deliver measurable ROI and positive environmental impact.
 
 ---
 
-## 📚 Current Learning
-- **Maven** – Building Agentic AI Applications (Problem-First Approach)  
-- Applying AI concepts to real-world product challenges and automation use cases.
+## 🚀 Key Strengths
+- Product Strategy & Roadmaps
+- API Integrations & Platform Design
+- Enterprise SaaS & eCommerce
+- AI Product Management & Applications
+- Data-Driven Decision Making
+- Cross-Functional Leadership
+- Digital Transformation & Sustainability
 
 ---
 
-## 🛠 Tech & Tools
-**Product Management**: Jira, Azure DevOps, Miro, Figma, Confluence  
-**Integrations**: GraphQL, Swagger APIs, MuleSoft, SAP CPI  
-**Platforms**: AWS, Microsoft Azure, SAP CX, Hybris, React, Spartacus  
-**Analytics**: Amplitude, Adobe Analytics, Splunk, Dynatrace
-**And More..*:
+## 🏆 Career Highlights
+- Led API-first platform strategy at Shell, integrating with 15+ enterprise applications and automating data delivery with GraphQL APIs.
+- Delivered award-winning global eCommerce platform for Shell Market Hub, supporting $32B revenue in 20+ languages.
+- Launched sustainability digital products used in 74 countries, driving a 10% alternative fuels revenue increase and securing $5M in contracts within 3 months.
+
+---
+
+## 🛠 Skills & Expertise
+
+### Product Management & Strategy
+- Strategic Planning, product vision, goals, prioritisation, roadmap, metrics, KPIs, OKRs
+
+### Prioritisation Frameworks
+- DVF, RICE, MoSCoW, Impact vs Effort, Feature ROI
+
+### Technical Expertise
+- API integrations, cloud platforms (AWS, Azure), eCommerce & digital solutions
+
+### Data-Driven Decision Making
+- User research, performance analysis, A/B testing, product analytics
+
+### Agile Methodologies
+- Scrum, Kanban, sprint planning, backlog management
+
+### Sustainability Initiatives
+- Carbon emission calculations, green tech solutions
+
+### Stakeholder Management
+- Cross-functional leadership, executive communication, vendor management
+
+---
+
+## 💻 Technical Skills
+**Cloud Platforms:** AWS, Microsoft Azure  
+**Databases:** SQL, PostgreSQL, MongoDB  
+**Agile & Collaboration Tools:** Jira, Azure DevOps, Mural, Figma, Figjam  
+**eCommerce:** SAP Hybris, SAP CX Suite, Spartacus, React  
+**Integration:** Swagger, SAP CPI, MuleSoft, GraphQL  
+**Analytics:** Amplitude, Adobe Analytics, Splunk, Dynatrace
+
 ---
 
 ## 🌐 Portfolio
@@ -35,7 +66,7 @@ My work blends **strategy, execution and hands-on delivery** — from API-led en
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/kalyanmuthavarapu](https://linkedin.com/in/kalyanmuthavarapu)
+- LinkedIn: [linkedin.com/in/kalyanmuthavarapu]
 - Email: *mckalyan@hotmail.com*
 
 ---
