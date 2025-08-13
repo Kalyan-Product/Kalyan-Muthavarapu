@@ -52,12 +52,25 @@ Senior Product Manager with over a decade of experience delivering impactful, sc
 ---
 
 ## 💻 Technical Skills
-**Cloud Platforms:** AWS, Microsoft Azure  
-**Databases:** SQL, PostgreSQL, MongoDB  
-**Agile & Collaboration Tools:** Jira, Azure DevOps, Mural, Figma, Figjam  
-**eCommerce:** SAP Hybris, SAP CX Suite, Spartacus, React  
-**Integration:** Swagger, SAP CPI, MuleSoft, GraphQL  
-**Analytics:** Amplitude, Adobe Analytics, Splunk, Dynatrace
+
+**Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-orange) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-lightblue)
+
+**Databases**  
+![SQL](https://img.shields.io/badge/SQL-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue) ![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
+**Agile & Collaboration Tools**  
+![Jira](https://img.shields.io/badge/Jira-blue) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-lightblue) ![Mural](https://img.shields.io/badge/Mural-pink) ![Figma](https://img.shields.io/badge/Figma-purple) ![Figjam](https://img.shields.io/badge/Figjam-yellow)
+
+**eCommerce**  
+![SAP Hybris](https://img.shields.io/badge/SAP%20Hybris-darkblue) ![SAP CX Suite](https://img.shields.io/badge/SAP%20CX%20Suite-lightblue) ![Spartacus](https://img.shields.io/badge/Spartacus-darkgreen) ![React](https://img.shields.io/badge/React-blue)
+
+**Integration**  
+![Swagger](https://img.shields.io/badge/Swagger-green) ![SAP CPI](https://img.shields.io/badge/SAP%20CPI-darkblue) ![MuleSoft](https://img.shields.io/badge/MuleSoft-lightblue) ![GraphQL](https://img.shields.io/badge/GraphQL-pink)
+
+**Analytics**  
+![Amplitude](https://img.shields.io/badge/Amplitude-blue) ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-red) ![Splunk](https://img.shields.io/badge/Splunk-black) ![Dynatrace](https://img.shields.io/badge/Dynatrace-green)
+
 
 ---
 
